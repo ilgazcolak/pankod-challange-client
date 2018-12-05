@@ -1,0 +1,26 @@
+.popular_series {
+    background-color: #414141;
+}
+
+.popular_series h2 {
+    color: #fff;
+    margin-left: 5%;
+    margin-top: 0;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.card_item {
+    margin-bottom: 3%;
+}
+
+.container {
+    background: #fff;
+    margin: 0px;
+}
+
+.container img {
+    position: relative;
+    width: 100%;
+    height: 50%;
+}

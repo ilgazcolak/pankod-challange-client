@@ -1,0 +1,40 @@
+.header {
+    background: #0188fe;
+    border-bottom: 1px solid #000000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.header .header_left {
+    padding: 0;
+    margin-left: 5%;
+    display: inline-block;
+}
+
+.header .header_right {
+    list-style-type: none;
+    margin-left: 5%;
+    padding: 0;
+    float: right;
+    margin-right: 10%;
+    display: inline-block;
+}
+
+.header .header_right a {
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+}
+
+.header .header_right a:last-child {
+    background: #000;
+}
+
+.logo {
+    flex-grow: 1;
+    padding-top: 8px;
+}
+
+.logo img {
+    width: 35px;
+}
